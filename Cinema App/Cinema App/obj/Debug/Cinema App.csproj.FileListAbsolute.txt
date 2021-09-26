@@ -1,0 +1,10 @@
+D:\My Apps\Cinema App\Cinema App\bin\Debug\Cinema App.exe.config
+D:\My Apps\Cinema App\Cinema App\bin\Debug\Cinema App.exe
+D:\My Apps\Cinema App\Cinema App\bin\Debug\Cinema App.pdb
+D:\My Apps\Cinema App\Cinema App\obj\Debug\Cinema App.csproj.AssemblyReference.cache
+D:\My Apps\Cinema App\Cinema App\obj\Debug\Cinema_App.Form1.resources
+D:\My Apps\Cinema App\Cinema App\obj\Debug\Cinema_App.Properties.Resources.resources
+D:\My Apps\Cinema App\Cinema App\obj\Debug\Cinema App.csproj.GenerateResource.cache
+D:\My Apps\Cinema App\Cinema App\obj\Debug\Cinema App.csproj.CoreCompileInputs.cache
+D:\My Apps\Cinema App\Cinema App\obj\Debug\Cinema App.exe
+D:\My Apps\Cinema App\Cinema App\obj\Debug\Cinema App.pdb
